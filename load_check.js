@@ -22,7 +22,7 @@ options.innerHTML = "<div style = 'font-size:1rem' class = 'op active'>Welcome t
     const addTo = document.getElementById("classes");
     addTo.innerHTML="";
     addTo.insertAdjacentHTML("beforeend", `
-    <div onclick = "set('cser.js')"style = "text-align:center;cursor:pointer;" class = "class"><img style = "width:1.1rem; vertical-align:text-top" src = "cser.png"> CSE R</div>
+    <div onclick = "set('cser6sem.js')"style = "text-align:center;cursor:pointer;" class = "class"><img style = "width:1.1rem; vertical-align:text-top" src = "cser.png"> CSE R</div>
     <div onclick = "set('ee.js')"style = "text-align:center;cursor:pointer;" class = "class"><img style = "width:1.1rem; vertical-align:text-top" src = "ee.png"> Electrical</div>
     <div onclick = "set('me.js')" style = "text-align:center;cursor:pointer" class = "class"><img style = "width:1.1rem;vertical-align:text-top" src = "me.png"> Mechanical</div>
 `)
@@ -32,7 +32,7 @@ function changeFunc() {
     var selectedValue = selectBox.options[selectBox.selectedIndex].value;
     return selectedValue;
    }
-if (localStorage.getItem("branch") == "cser.js") {
+if (localStorage.getItem("branch") == "cser6sem.js") {
     body.append(createScript);
     createScript.addEventListener("load", ()=>{
         createScript2.setAttribute("src","script.js");

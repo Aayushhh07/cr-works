@@ -5,14 +5,14 @@ Subject_Name : "Computer Network <br> (ICS 603)",
 Time_Start: "10:00 AM",
 Time_End: "11:40 AM",
 Faculty_Name: "Mr. Abhishek Singh",
-Venue: "LT 26"
+Venue: "CS - 310"
     },
     {
 Subject_Name : "Open Elective <br>(ICS 06*)",
 Time_Start: "11:40 AM",
 Time_End: "12:30 PM",
 Faculty_Name: "-",
-Venue: "LT 26"
+Venue: "CS - 310"
     },
     {
         Subject_Name : "<b>Section 1:</b> <br> Software Engineering <br>Lab",
@@ -36,7 +36,7 @@ Subject_Name : "Software Engineering <br> (ICS 601)",
 Time_Start: "03:40 PM",
 Time_End: "04:30 PM",
 Faculty_Name: "Ms Srishti Tiwari",
-Venue: "LT 26"
+Venue: "CS - 310"
     }
 
 ]
@@ -46,14 +46,14 @@ Subject_Name : "Software Engineering<br>(ICS 601)",
 Time_Start: "09:10 AM",
 Time_End: "10:50 AM",
 Faculty_Name: "Ms Srishti Tiwari",
-Venue: "LT 26"
+Venue: "CS - 310"
     },
     {
 Subject_Name : "Open Elective<br>(ICS 06*)",
 Time_Start: "10:50 AM",
 Time_End: "12:30 PM",
 Faculty_Name: "-",
-Venue: "LT 26"
+Venue: "CS - 310"
     },
     {
         
@@ -78,7 +78,7 @@ Venue: "OS Lab"
         Time_Start: "03:40 PM",
         Time_End: "04:30 PM",
         Faculty_Name: "Dr. Promila Bahadur",
-        Venue: "LT 26"
+        Venue: "CS - 310"
             }
     
 ];
@@ -97,7 +97,7 @@ Subject_Name : "Artificial Intelligence <br> (ICS 602)",
 Time_Start: "10:50 AM",
 Time_End: "12:30 PM",
 Faculty_Name: "Dr. Promila Bahadur",
-Venue: "LT 26"
+Venue: "CS - 310"
     },
 
 {
@@ -105,14 +105,14 @@ Subject_Name : "Application of <br> Soft Computing <br> (ICS 064)",
 Time_Start: "02:00 PM",
 Time_End: "02:50 PM",
 Faculty_Name: "Dr. Pawan Kumar Tiwari",
-Venue: "LT 26"
+Venue: "CS - 310"
     },
 
 {Subject_Name : "<b>Section 2:</b> <br> Seminar/ Startup <br> (ICS 654)",
 Time_Start: "02:50 PM",
 Time_End: "04:30 PM",
 Faculty_Name: "Dr. Pawan Kumar Tiwari",
-Venue: "LT 26"
+Venue: "CS - 310"
     }
 
 ]
@@ -124,7 +124,7 @@ let thus = [
         Time_Start: "09:10 AM",
         Time_End: "10:50 AM",
         Faculty_Name: "Ms Srishti Tiwari",
-        Venue: "LT 26"
+        Venue: "CS - 310"
             },
 
             {
@@ -132,7 +132,7 @@ let thus = [
                 Time_Start: "10:50 PM",
                 Time_End: "12:30 PM",
                 Faculty_Name: "Dr. Pawan Kumar Tiwari",
-                Venue: "LT 26"
+                Venue: "CS - 310"
                     },
                     {
                 
@@ -159,21 +159,21 @@ let fri = [
         Time_Start: "10:00 AM",
         Time_End: "10:50 AM",
         Faculty_Name: "Mr. Abhishek Singh",
-        Venue: "LT 26"
+        Venue: "CS - 310"
             },
         {
             Subject_Name : "Artificial Intelligence <br> (ICS 602)",
             Time_Start: "10:50 AM",
             Time_End: "12:30 PM",
             Faculty_Name: "Dr. Promila Bahadur",
-            Venue: "LT 26"
+            Venue: "CS - 310"
                 },
 
              {Subject_Name : "<b>Section 2:</b> <br> Seminar/ Startup <br> (ICS 654)",
             Time_Start: "02:00 PM",
             Time_End: "03:40 PM",
             Faculty_Name: "Dr. Pawan Kumar Tiwari",
-            Venue: "LT 26"
+            Venue: "CS - 310"
              }
                     
 ]
@@ -183,7 +183,7 @@ let sat = [
         Time_Start: "10:50 AM",
         Time_End: "12:30 AM",
         Faculty_Name: "Mr. Abhishek Singh",
-        Venue: "LT 26"
+        Venue: "CS - 310"
             },
     {
         
